@@ -15,7 +15,10 @@ Bibliotecas personalizadas de produtos genéricos/equivalentes fornecidas no rep
 * [Conectores KRE](https://github.com/leonardokr/eagle-bibliotecas-3d) - Conectores utilizados na placa para facilitar montagem e manutenção
 
 ## Resumo
-
+<p align="center">
+  <img src="img/schema.png" width="49%">
+  <img src="img/board.png" width="49%">
+</p>
 ###### Imagens 3D do projeto da placa:
 <p align="center">
   <img src="img/01.PNG" width="25%">
