@@ -18,28 +18,30 @@ Bibliotecas personalizadas de produtos genéricos/equivalentes fornecidas no rep
 
 ###### Imagens 3D do projeto da placa:
 <p align="center">
-  <img src="img/01.PNG" width="35%">
-  <img src="img/02.PNG" width="35%">
-  <img src="img/03.PNG" width="35%">
-  <img src="img/04.PNG" width="35%">
-  <img src="img/05.PNG" width="35%">
-  <img src="img/06.PNG" width="35%">
-  <img src="img/07.PNG" width="35%">
-  <img src="img/08.PNG" width="35%">
+  <img src="img/01.PNG" width="25%">
+  <img src="img/02.PNG" width="25%">
+  <img src="img/03.PNG" width="25%">
+  <img src="img/04.PNG" width="25%">
+  <img src="img/05.PNG" width="25%">
+  <img src="img/06.PNG" width="25%">
+  <img src="img/07.PNG" width="25%">
+  <img src="img/08.PNG" width="25%">
 </p>
 
 ###### Arquivos 3D
 <br>
-<p align="center"> Arquivo F3D <br/>
-  <a href="3d/main.f3d" download="3d/main.f3d"><img width="200px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
-</p>
-<p align="center"> Arquivo SKP <br/>
-  <a href="3d/main.skp" download="3d/main.skp"><img width="200px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
-</p>
-<p align="center"> Arquivo OBJ <br/>
-  <a href="3d/main.obj" download="3d/main.obj"><img width="200px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
-</p>
-<p align="center"> Arquivo DWG <br/>
-  <a href="3d/main.dwg" download="3d/main.dwg"><img width="200px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
+<p style="width:100%;">
+  <p align="center"> Arquivo F3D <br/>
+   <a href="3d/main.f3d" download="3d/main.f3d"><img width="200px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
+  </p>
+  <p align="center"> Arquivo SKP <br/>
+    <a href="3d/main.skp" download="3d/main.skp"><img width="200px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
+  </p>
+  <p align="center"> Arquivo OBJ <br/>
+    <a href="3d/main.obj" download="3d/main.obj"><img width="200px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
+  </p>
+  <p align="center"> Arquivo DWG <br/>
+    <a href="3d/main.dwg" download="3d/main.dwg"><img width="200px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
+  </p>
 </p>
 <hr>
