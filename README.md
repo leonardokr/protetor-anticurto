@@ -32,20 +32,16 @@ Imagem da placa gerada, assim como o esquema de furação (os arquivos PDF com t
   <img src="img/drill.png" width="33%">
 </p>
 <hr/>
+<p>
+  Download dos arquivos, sendo: Cima; Cima (espelhado); Fundo; Fundo (espelhado); Furação; Furação (espelhado).
+</p>
 <p align="center">
-  Cima
-  Cima (espelhado)
-  Fundo
-  Fundo (espelhado)
-  Furação
-  Furação (espelhado)
-  
-  <a href="src/top.pdf" download="src/top.pdf"><img width="200px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
-  <a href="src/top_mirrored.pdf" download="src/top_mirrored.pdf"><img width="200px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
-  <a href="src/bottom.pdf" download="src/bottom.pdf"><img width="200px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
-  <a href="src/bottom_mirrored.pdf" download="src/bottom_mirrored.pdf"><img width="200px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
-  <a href="src/drill.pdf" download="src/drill.pdf"><img width="200px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
-  <a href="src/drill_mirrored.pdf" download="src/drill_mirrored.pdf"><img width="200px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
+  <a href="src/top.pdf" download="src/top.pdf"><img width="150px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
+  <a href="src/top_mirrored.pdf" download="src/top_mirrored.pdf"><img width="150px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
+  <a href="src/bottom.pdf" download="src/bottom.pdf"><img width="150px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
+  <a href="src/bottom_mirrored.pdf" download="src/bottom_mirrored.pdf"><img width="150px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
+  <a href="src/drill.pdf" download="src/drill.pdf"><img width="150px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
+  <a href="src/drill_mirrored.pdf" download="src/drill_mirrored.pdf"><img width="150px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
 </p>
 <br/>
 
@@ -63,14 +59,13 @@ Imagem da placa gerada, assim como o esquema de furação (os arquivos PDF com t
 
 ###### Arquivos 3D
 <br>
+<p>
+  Download dos arquivos, sendo: F3D; SKP; OBJ; DWG.
+</p>
 <p align="center">
-  Arquivo F3D <br/>
   <a href="3d/main.f3d" download="3d/main.f3d"><img width="200px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
-  Arquivo SKP <br/>
   <a href="3d/main.skp" download="3d/main.skp"><img width="200px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
-  Arquivo OBJ <br/>
   <a href="3d/main.obj" download="3d/main.obj"><img width="200px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
-  Arquivo DWG <br/>
   <a href="3d/main.dwg" download="3d/main.dwg"><img width="200px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
 </p>
 <hr>
