@@ -18,28 +18,28 @@ Bibliotecas personalizadas de produtos genéricos/equivalentes fornecidas no rep
 
 ###### Imagens 3D do projeto da placa:
 <p align="center">
-  <img src="img/01.PNG" width="49%">
-  <img src="img/02.png" width="49%">
-  <img src="img/03.png" width="49%">
-  <img src="img/04.png" width="49%">
-  <img src="img/05.png" width="49%">
-  <img src="img/06.png" width="49%">
-  <img src="img/07.png" width="49%">
-  <img src="img/08.png" width="49%">
+  <img src="img/01.PNG" width="35%">
+  <img src="img/02.PNG" width="35%">
+  <img src="img/03.PNG" width="35%">
+  <img src="img/04.PNG" width="35%">
+  <img src="img/05.PNG" width="35%">
+  <img src="img/06.PNG" width="35%">
+  <img src="img/07.PNG" width="35%">
+  <img src="img/08.PNG" width="35%">
 </p>
 
 ###### Arquivos 3D
 <br>
-<p align="center"> Arquivo F3D
+<p align="center"> Arquivo F3D <br/>
   <a href="3d/main.f3d" download="3d/main.f3d"><img width="200px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
 </p>
-<p align="center"> Arquivo SKP
+<p align="center"> Arquivo SKP <br/>
   <a href="3d/main.skp" download="3d/main.skp"><img width="200px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
 </p>
-<p align="center"> Arquivo OBJ
+<p align="center"> Arquivo OBJ <br/>
   <a href="3d/main.obj" download="3d/main.obj"><img width="200px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
 </p>
-<p align="center"> Arquivo DWG
+<p align="center"> Arquivo DWG <br/>
   <a href="3d/main.dwg" download="3d/main.dwg"><img width="200px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
 </p>
 <hr>
