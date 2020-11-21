@@ -27,21 +27,21 @@ Esquema do circuito e da placa feitos no Eagle, é em placa simples e componente
 Imagem da placa gerada, assim como o esquema de furação (os arquivos PDF com tamanho real estão no projeto):
 </p>
 <p align="center">
-  <img src="img/top.png" width="33%">
-  <img src="img/bottom.png" width="33%">
-  <img src="img/drill.png" width="33%">
+  <img src="img/top.png" width="30%">
+  <img src="img/bottom.png" width="30%">
+  <img src="img/drill.png" width="30%">
 </p>
 <hr/>
 <p>
   Download dos arquivos, sendo: Cima; Cima (espelhado); Fundo; Fundo (espelhado); Furação; Furação (espelhado).
 </p>
 <p align="center">
-  <a href="src/top.pdf" download="src/top.pdf"><img width="150px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
-  <a href="src/top_mirrored.pdf" download="src/top_mirrored.pdf"><img width="150px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
-  <a href="src/bottom.pdf" download="src/bottom.pdf"><img width="150px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
-  <a href="src/bottom_mirrored.pdf" download="src/bottom_mirrored.pdf"><img width="150px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
-  <a href="src/drill.pdf" download="src/drill.pdf"><img width="150px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
-  <a href="src/drill_mirrored.pdf" download="src/drill_mirrored.pdf"><img width="150px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
+  <a href="src/top.pdf" download="src/top.pdf"><img width="100px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
+  <a href="src/top_mirrored.pdf" download="src/top_mirrored.pdf"><img width="100px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
+  <a href="src/bottom.pdf" download="src/bottom.pdf"><img width="100px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
+  <a href="src/bottom_mirrored.pdf" download="src/bottom_mirrored.pdf"><img width="100px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
+  <a href="src/drill.pdf" download="src/drill.pdf"><img width="100px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
+  <a href="src/drill_mirrored.pdf" download="src/drill_mirrored.pdf"><img width="100px" src="https://github.com/leonardokr/leonardokr/blob/master/resources/download.svg"></a>
 </p>
 <br/>
 
