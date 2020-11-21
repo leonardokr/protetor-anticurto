@@ -1,0 +1,2 @@
+#  protetor-anticurto
+#  protetor-anticurto
