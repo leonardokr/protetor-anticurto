@@ -16,8 +16,8 @@ Bibliotecas personalizadas de produtos genéricos/equivalentes fornecidas no rep
 
 ## Resumo
 <p align="center">
-  <img src="img/schema.png" width="50%">
-  <img src="img/board.png" width="50%">
+  <img src="img/schema.png" width="49%">
+  <img src="img/board.png" width="49%">
 </p>
 ###### Imagens 3D do projeto da placa:
 <p align="center">
