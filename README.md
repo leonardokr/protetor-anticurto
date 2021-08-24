@@ -1,3 +1,4 @@
+asasa
 # Protetor anti-curto com relé
 Protetor com desarme por relé para proteção de circuitos eletrônicos.
 
