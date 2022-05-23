@@ -13,7 +13,7 @@ Projetos esquemáticos e de layout de placas desenvolvidos em Eagle 9.2.0 e Fusi
 Bibliotecas personalizadas de produtos genéricos/equivalentes fornecidas no repositório.
 
 ###### Bibliotecas personalizadas
-* [Conectores KRE](https://github.com/leonardokr/eagle-bibliotecas-3d) - Conectores utilizados na placa para facilitar montagem e manutenção
+* [Conectores KRE](https://github.com/leonardokr/eagle-conectores-kre) - Conectores utilizados na placa para facilitar montagem e manutenção
 
 ## Resumo
 <p>
